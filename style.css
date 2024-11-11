@@ -1,0 +1,9 @@
+#anchor:hover{
+    color: #0082F3;
+}
+.hero{
+    background-image: url('img/hero-back.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
